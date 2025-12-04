@@ -1,0 +1,64 @@
+{
+  "movies": [
+    {
+      "id": "m1",
+      "title": "3 Idiots",
+      "genre": "Comedy / Drama",
+      "duration": "2h 51m",
+      "rating": "8.4",
+      "poster": "https://vistapointe.net/images/3-idiots-4.jpg",
+      "rows": 10,
+      "cols": 12,
+      "booked_seats": [
+        "A1",
+        "A10",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A7",
+        "A9",
+        "B1",
+        "B6",
+        "B7",
+        "C5",
+        "C7",
+        "D7",
+        "J10",
+        "J11"
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "PK",
+      "genre": "Comedy / Sci-Fi",
+      "duration": "2h 33m",
+      "rating": "8.1",
+      "poster": "https://th.bing.com/th/id/OIP._oSY3J8pfip2sRJiwYD60wHaEK?w=266&h=180&c=7&r=0&o=7&cb=ucfimgc2&dpr=1.4&pid=1.7&rm=3",
+      "rows": 10,
+      "cols": 12,
+      "booked_seats": [
+        "B3",
+        "B4"
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Taare Zameen Par",
+      "genre": "Drama / Family",
+      "duration": "2h 42m",
+      "rating": "8.3",
+      "poster": "https://th.bing.com/th/id/OIP.vy1NHgs673r7LexkBQCKjwHaE8?w=257&h=180&c=7&r=0&o=7&cb=ucfimgc2&dpr=1.4&pid=1.7&rm=3",
+      "rows": 10,
+      "cols": 12,
+      "booked_seats": [
+        "F6",
+        "F7",
+        "F8",
+        "G6",
+        "G7",
+        "G8"
+      ]
+    }
+  ]
+}
